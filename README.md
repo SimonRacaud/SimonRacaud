@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm simon racaud, student at Epitech and member of PoC Innovation
+I'm simon racaud, student at Epitech
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
