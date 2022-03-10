@@ -10,6 +10,8 @@ I'm simon racaud, student at Epitech
 ![Asm](https://img.shields.io/badge/Assembly-x86__64-red?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&logo=kotlin)
 
+WEB
+
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
