@@ -10,6 +10,11 @@ I'm Simon RACAUD, student at EPITECH France
 ![Asm](https://img.shields.io/badge/Assembly-x86__64-red?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&logo=kotlin)
 ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet?style=for-the-badge&logo=haskell)
++
+Rust +
+Go +
+R +
+Java
 
 ---
 
