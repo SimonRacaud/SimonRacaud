@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour
 
 I'm Simon RACAUD, previously student at EPITECH Paris, France
 
