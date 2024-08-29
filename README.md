@@ -1,6 +1,6 @@
 ### Bonjour
 
-I'm Simon RACAUD, previously student at EPITECH Paris, France
+I'm Simon RACAUD, previously student at the EPITECH Paris, France
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
