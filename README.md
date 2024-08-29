@@ -2,19 +2,21 @@
 
 I'm Simon RACAUD, previously student at the EPITECH Paris, France
 
+
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Asm](https://img.shields.io/badge/Assembly-x86__64-red?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&logo=kotlin)
 ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet?style=for-the-badge&logo=haskell)
-+
-Rust +
-Go +
-R +
-Java
+![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go)
+![R](https://img.shields.io/badge/-R-darkblue?style=for-the-badge&logo=r)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 
 ---
 
