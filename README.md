@@ -1,12 +1,16 @@
 ### Bonjour
 
-I'm Simon RACAUD, previously student at the EPITECH Paris, France
+I'm Simon, professionnal developer in FRANCE.
+
+I like drinking red wine 🍷 and laughing at the world's misery.
 
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Languages I used to know:
+
 ![Asm](https://img.shields.io/badge/Assembly-x86__64-red?style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go)
 ![R](https://img.shields.io/badge/-R-darkblue?style=for-the-badge&logo=r)
