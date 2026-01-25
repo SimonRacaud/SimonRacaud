@@ -2,8 +2,6 @@
 
 I'm Simon, professionnal developer in FRANCE.
 
-I like drinking red wine 🍷 and laughing at the world's misery.
-
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
