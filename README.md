@@ -8,7 +8,7 @@ I'm Simon, professional software engineer from FRANCE.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 
-#### Also experimented on:
+#### Additionally experienced with:
 ![Asm](https://img.shields.io/badge/Assembly-x86__64-red?style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go)
 ![R](https://img.shields.io/badge/-R-darkblue?style=for-the-badge&logo=r)
